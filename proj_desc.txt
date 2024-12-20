@@ -1,0 +1,26 @@
+#food delivery
+
+
+*customers
+1> login/register(manage the profile)
+2> search bar(for food searches with filters(price, name, delivery_time))
+3> home screen food suggestion (based on recent searches and past orders)
+4> home screen restaurant suggestion
+5> track your order(estimated time of delivery)
+6> payment option and ratings
+
+
+
+
+*restaurant
+1> update available (menu/open-close time/ price)
+2> get real-time orders
+3> sale tracking dashboard (daily/weekly/monthly)
+4> delivery status(all the orders (completed/failed/estimated-time)
+
+
+*admin
+1> user management (add/remove the user based on the activity)
+2> add or remove restaurant 
+
+
