@@ -16,13 +16,19 @@
 1> update available (menu/open-close time/ price)
 2> get real-time orders
 3> sale tracking dashboard (daily/weekly/monthly)
-4> delivery status(all the orders (completed/failed/estimated-time)
+4> delivery status(all the orders (completed/failed/estimated-time))
 
 
 *admin
 1> user management (add/remove the user based on the activity)
 2> add or remove restaurant 
 
-
+* Key features ---> must going to include:
+  1>Responsive design
+  2> filter results based on delivery time, price range, ratings
+  3>order customization:- Ex-can add extra things to the food or need addition necessary items 
+  4>Restaurant manager will have the access to update menus
+  5>Alerts about new deals , discounts, coupons
+  6>Have a description box which will show the details about the food with its popularity.
 
 
